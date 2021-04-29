@@ -1,2 +1,2 @@
 # topicmodeling_related
-topicmodeling related data, stopwords and so on
+topic modeling tests related data, stopwords etc.
